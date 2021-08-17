@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-banana apple pie would be an abomination
+oh this is a change to the second slide yessir
 fruit salad
 Use the left arrow to go back!
